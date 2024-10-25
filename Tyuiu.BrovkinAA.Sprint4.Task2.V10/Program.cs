@@ -14,7 +14,7 @@ namespace Tyuiu.BrovkinAA.Sprint4.Task2.V10
             Console.WriteLine("*                                                                             *");
             Console.WriteLine("* Спринт #4                                                                   *");
             Console.WriteLine("* Тема: Одномерные массивы (генератор случайных чисел)                        *");
-            Console.WriteLine("* Задание #1                                                                  *");
+            Console.WriteLine("* Задание #2                                                                  *");
             Console.WriteLine("* Вариант #10                                                                 *");
             Console.WriteLine("* Выполнил Бровкин Алексей Александрович | ИБКСб-24-1                         *");
             Console.WriteLine("*                                                                             *");
