@@ -12,7 +12,7 @@ namespace Tyuiu.BrovkinAA.Sprint4.Task3.V9
             Console.WriteLine("*******************************************************************************");
             Console.WriteLine("*                                                                             *");
             Console.WriteLine("* Спринт #4                                                                   *");
-            Console.WriteLine("* Тема: Одномерные массивы (генератор случайных чисел)                        *");
+            Console.WriteLine("* Тема: Двумерные массивы (статический ввод)                                  *");
             Console.WriteLine("* Задание #3                                                                  *");
             Console.WriteLine("* Вариант #9                                                                  *");
             Console.WriteLine("* Выполнил Бровкин Алексей Александрович | ИБКСб-24-1                         *");
